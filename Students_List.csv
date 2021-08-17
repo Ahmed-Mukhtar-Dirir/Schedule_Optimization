@@ -1,0 +1,100 @@
+{"ID": "ID_0", "Courses": ["Math 1", "Math 2", "arabic", "English 1 ", "English 2"], "Sunday": [[14, 15], [16, 17], [18, 20]], "Monday": [[10, 11], [16, 17], [18, 20]], "Tuesday": [[14, 15], [16, 17], [18, 20]], "Wednesday": [[10, 11], [15, 17], [18, 20]], "Thursday": [[11, 12], [18, 20]]}
+{"ID": "ID_1", "Courses": ["Calculus 2 for Science_IT", "Calculus 2 for Engineering"], "Sunday": [[12, 16], [18, 22]], "Monday": [[9, 12], [20, 22]], "Tuesday": [[12, 16], [18, 22]], "Wednesday": [[9, 12], [18, 22]], "Thursday": [[18, 22]]}
+{"ID": "ID_2", "Courses": ["Math 2"], "Sunday": [[12, 15]], "Monday": [], "Tuesday": [[12, 15]], "Wednesday": [], "Thursday": []}
+{"ID": "ID_3", "Courses": ["Math 3"], "Sunday": [], "Monday": [[12, 14]], "Tuesday": [], "Wednesday": [[12, 14]], "Thursday": []}
+{"ID": "ID_4", "Courses": ["Math 3"], "Sunday": [[14, 15]], "Monday": [], "Tuesday": [], "Wednesday": [], "Thursday": []}
+{"ID": "ID_5", "Courses": ["Physics 2 for Engineering", "Physics 2 for Science_IT"], "Sunday": [[16, 17]], "Monday": [], "Tuesday": [[10, 12]], "Wednesday": [[11, 12]], "Thursday": [[11, 12]]}
+{"ID": "ID_6", "Courses": ["biology"], "Sunday": [[10, 14]], "Monday": [], "Tuesday": [[10, 14]], "Wednesday": [[15, 18]], "Thursday": []}
+{"ID": "ID_7", "Courses": ["Circuit 1", "Linear Algebra for Engineering"], "Sunday": [[17, 21]], "Monday": [[13, 16], [17, 21]], "Tuesday": [[17, 21]], "Wednesday": [[17, 20]], "Thursday": []}
+{"ID": "ID_8", "Courses": ["Chemistry 1"], "Sunday": [], "Monday": [[17, 22]], "Tuesday": [[17, 22]], "Wednesday": [], "Thursday": []}
+{"ID": "ID_9", "Courses": ["English 1 "], "Sunday": [[10, 11]], "Monday": [], "Tuesday": [[10, 11]], "Wednesday": [], "Thursday": []}
+{"ID": "ID_10", "Courses": ["English 1 ", "Java", "Thermodynamics"], "Sunday": [[10, 11], [18, 20], [21, 22]], "Monday": [[18, 22]], "Tuesday": [[10, 11], [18, 21]], "Wednesday": [[18, 19], [21, 22]], "Thursday": []}
+{"ID": "ID_11", "Courses": ["English 2"], "Sunday": [[10, 11]], "Monday": [], "Tuesday": [[10, 11]], "Wednesday": [], "Thursday": []}
+{"ID": "ID_12", "Courses": ["English 2"], "Sunday": [[10, 11]], "Monday": [], "Tuesday": [[10, 11]], "Wednesday": [], "Thursday": []}
+{"ID": "ID_13", "Courses": ["English 1 "], "Sunday": [], "Monday": [[11, 12]], "Tuesday": [], "Wednesday": [[11, 12]], "Thursday": [[10, 11]]}
+{"ID": "ID_14", "Courses": ["Math 3", "English 3"], "Sunday": [[10, 11]], "Monday": [[10, 12]], "Tuesday": [[10, 11]], "Wednesday": [[10, 12]], "Thursday": [[10, 12]]}
+{"ID": "ID_15", "Courses": ["Math 1", "English 2", "C ++", "Java"], "Sunday": [[14, 15], [18, 22]], "Monday": [[14, 15], [18, 22]], "Tuesday": [[14, 15], [18, 22]], "Wednesday": [[15, 16], [18, 22]], "Thursday": [[18, 22]]}
+{"ID": "ID_16", "Courses": ["Math 1", "English 2", "C ++", "Java"], "Sunday": [[14, 15], [18, 22]], "Monday": [[14, 15]], "Tuesday": [[14, 15], [18, 22]], "Wednesday": [[15, 16], [18, 22]], "Thursday": [[18, 22]]}
+{"ID": "ID_17", "Courses": ["Math 2", "English 2", "Thermodynamics", "Digital Logic Design", "Physics 2 for Engineering"], "Sunday": [[18, 22]], "Monday": [[14, 15], [20, 22]], "Tuesday": [[10, 11], [18, 22]], "Wednesday": [[18, 22]], "Thursday": [[18, 22]]}
+{"ID": "ID_18", "Courses": ["English 4"], "Sunday": [], "Monday": [[15, 16]], "Tuesday": [], "Wednesday": [[15, 16]], "Thursday": []}
+{"ID": "ID_19", "Courses": ["Math 2"], "Sunday": [[10, 11]], "Monday": [[12, 13]], "Tuesday": [[10, 11]], "Wednesday": [], "Thursday": []}
+{"ID": "ID_20", "Courses": ["Math 3"], "Sunday": [], "Monday": [[11, 12]], "Tuesday": [], "Wednesday": [], "Thursday": []}
+{"ID": "ID_21", "Courses": ["Math 3"], "Sunday": [], "Monday": [], "Tuesday": [[12, 13]], "Wednesday": [], "Thursday": []}
+{"ID": "ID_22", "Courses": ["Physics 1 for Science_IT", "Physics 1 for Engineering"], "Sunday": [[18, 22]], "Monday": [[18, 22]], "Tuesday": [[18, 22]], "Wednesday": [[18, 22]], "Thursday": []}
+{"ID": "ID_23", "Courses": ["Micro", "Accounting"], "Sunday": [[16, 22]], "Monday": [[16, 20]], "Tuesday": [[16, 22]], "Wednesday": [[16, 22]], "Thursday": []}
+{"ID": "ID_24", "Courses": ["Math 1"], "Sunday": [], "Monday": [[9, 10]], "Tuesday": [], "Wednesday": [], "Thursday": []}
+{"ID": "ID_25", "Courses": ["Math 1", "Thermodynamics"], "Sunday": [[13, 14]], "Monday": [], "Tuesday": [], "Wednesday": [[10, 11]], "Thursday": []}
+{"ID": "ID_26", "Courses": ["Math 1", "English 1 "], "Sunday": [], "Monday": [[13, 14]], "Tuesday": [], "Wednesday": [[13, 14]], "Thursday": []}
+{"ID": "ID_27", "Courses": ["Math 1"], "Sunday": [[10, 11]], "Monday": [[10, 12]], "Tuesday": [[10, 12]], "Wednesday": [[10, 12]], "Thursday": [[10, 11]]}
+{"ID": "ID_28", "Courses": ["Physics 2 for Science_IT", "Physics 2 for Engineering"], "Sunday": [[12, 14]], "Monday": [[8, 10], [14, 15]], "Tuesday": [[12, 14]], "Wednesday": [[8, 10], [14, 15]], "Thursday": []}
+{"ID": "ID_29", "Courses": ["Math 1"], "Sunday": [[14, 15]], "Monday": [[14, 15]], "Tuesday": [[14, 15]], "Wednesday": [[14, 16]], "Thursday": [[14, 16]]}
+{"ID": "ID_30", "Courses": ["Math 1"], "Sunday": [[9, 10], [13, 16]], "Monday": [[9, 10], [11, 16], [19, 20]], "Tuesday": [[9, 10], [11, 16]], "Wednesday": [[9, 10], [11, 16]], "Thursday": []}
+{"ID": "ID_31", "Courses": ["Electro-Mechanical"], "Sunday": [], "Monday": [[14, 16]], "Tuesday": [], "Wednesday": [], "Thursday": []}
+{"ID": "ID_32", "Courses": ["English 1 "], "Sunday": [[19, 20]], "Monday": [[18, 20]], "Tuesday": [[19, 20]], "Wednesday": [[18, 20]], "Thursday": []}
+{"ID": "ID_33", "Courses": ["English 1 "], "Sunday": [], "Monday": [[19, 20]], "Tuesday": [[19, 20]], "Wednesday": [[19, 20]], "Thursday": []}
+{"ID": "ID_34", "Courses": ["arabic"], "Sunday": [], "Monday": [], "Tuesday": [], "Wednesday": [], "Thursday": [[9, 10]]}
+{"ID": "ID_35", "Courses": ["Math 3"], "Sunday": [], "Monday": [[18, 19]], "Tuesday": [[18, 19]], "Wednesday": [[18, 19]], "Thursday": []}
+{"ID": "ID_36", "Courses": ["Calculus 1 for Engineering", "Thermodynamics"], "Sunday": [[16, 22]], "Monday": [], "Tuesday": [], "Wednesday": [], "Thursday": []}
+{"ID": "ID_37", "Courses": ["Chemistry 1"], "Sunday": [[14, 15]], "Monday": [[10, 11]], "Tuesday": [[11, 12]], "Wednesday": [[10, 11]], "Thursday": []}
+{"ID": "ID_38", "Courses": ["biology"], "Sunday": [[10, 14]], "Monday": [], "Tuesday": [[10, 14]], "Wednesday": [[15, 18]], "Thursday": []}
+{"ID": "ID_39", "Courses": ["Physics 1 for Engineering"], "Sunday": [[13, 14]], "Monday": [[10, 11], [14, 15]], "Tuesday": [[13, 14]], "Wednesday": [[10, 11], [14, 15]], "Thursday": []}
+{"ID": "ID_40", "Courses": ["Chemistry 1", "Physics 1 for Engineering", "Calculus 2 for Engineering"], "Sunday": [[10, 12]], "Monday": [[11, 12], [15, 16]], "Tuesday": [], "Wednesday": [[15, 16]], "Thursday": [[9, 12]]}
+{"ID": "ID_41", "Courses": ["Chemistry 1"], "Sunday": [], "Monday": [], "Tuesday": [[8, 9]], "Wednesday": [], "Thursday": []}
+{"ID": "ID_42", "Courses": ["English 4"], "Sunday": [], "Monday": [[16, 17]], "Tuesday": [], "Wednesday": [], "Thursday": []}
+{"ID": "ID_43", "Courses": ["Chemistry 1"], "Sunday": [], "Monday": [], "Tuesday": [], "Wednesday": [[11, 12]], "Thursday": []}
+{"ID": "ID_44", "Courses": ["Thermodynamics"], "Sunday": [], "Monday": [[10, 11], [14, 16]], "Tuesday": [[12, 16]], "Wednesday": [[10, 11]], "Thursday": []}
+{"ID": "ID_45", "Courses": ["Physics 1 for Engineering"], "Sunday": [[8, 10], [14, 16]], "Monday": [[8, 10]], "Tuesday": [[8, 10], [14, 16]], "Wednesday": [[8, 10]], "Thursday": []}
+{"ID": "ID_46", "Courses": ["Calculus 2 for Engineering"], "Sunday": [[8, 10], [18, 22]], "Monday": [[18, 22]], "Tuesday": [[8, 9], [18, 22]], "Wednesday": [[8, 11], [18, 22]], "Thursday": []}
+{"ID": "ID_47", "Courses": ["Circuit 1", "Linear Algebra for Engineering"], "Sunday": [[17, 21]], "Monday": [[13, 16], [17, 21]], "Tuesday": [[17, 21]], "Wednesday": [[17, 20]], "Thursday": []}
+{"ID": "ID_48", "Courses": ["Calculus 1 for Engineering", "Physics 1 for Engineering"], "Sunday": [[15, 16]], "Monday": [[11, 12]], "Tuesday": [], "Wednesday": [], "Thursday": []}
+{"ID": "ID_49", "Courses": ["Thermodynamics"], "Sunday": [[12, 13]], "Monday": [], "Tuesday": [], "Wednesday": [], "Thursday": []}
+{"ID": "ID_50", "Courses": ["Physical Chemistry1"], "Sunday": [], "Monday": [[11, 14]], "Tuesday": [], "Wednesday": [[11, 14]], "Thursday": []}
+{"ID": "ID_51", "Courses": ["Electro-Mechanical"], "Sunday": [], "Monday": [[13, 15]], "Tuesday": [], "Wednesday": [], "Thursday": []}
+{"ID": "ID_52", "Courses": ["Math 1"], "Sunday": [], "Monday": [[14, 15]], "Tuesday": [[14, 15]], "Wednesday": [], "Thursday": []}
+{"ID": "ID_53", "Courses": ["Calculus 1 for Business"], "Sunday": [], "Monday": [], "Tuesday": [[17, 22]], "Wednesday": [[12, 14]], "Thursday": []}
+{"ID": "ID_54", "Courses": ["Math 1"], "Sunday": [], "Monday": [[10, 11]], "Tuesday": [[10, 11]], "Wednesday": [], "Thursday": []}
+{"ID": "ID_55", "Courses": ["Math 3"], "Sunday": [], "Monday": [[12, 13]], "Tuesday": [], "Wednesday": [], "Thursday": []}
+{"ID": "ID_56", "Courses": ["Math 2"], "Sunday": [[15, 16]], "Monday": [[14, 16]], "Tuesday": [[15, 16]], "Wednesday": [[14, 16]], "Thursday": []}
+{"ID": "ID_57", "Courses": ["English 2"], "Sunday": [[18, 19]], "Monday": [], "Tuesday": [], "Wednesday": [], "Thursday": []}
+{"ID": "ID_58", "Courses": ["English 2"], "Sunday": [[18, 19]], "Monday": [], "Tuesday": [], "Wednesday": [], "Thursday": []}
+{"ID": "ID_59", "Courses": ["Calculus 1 for Science_IT", "Physics 1 for Science_IT", "Physics 1 for Engineering"], "Sunday": [[10, 12], [16, 22]], "Monday": [[8, 11], [14, 22]], "Tuesday": [[10, 11], [15, 22]], "Wednesday": [[8, 11]], "Thursday": []}
+{"ID": "ID_60", "Courses": ["Physics 2 for Engineering", "Physics 2 for Science_IT", "Calculus 2 for Engineering"], "Sunday": [], "Monday": [[20, 21]], "Tuesday": [[17, 19], [21, 22]], "Wednesday": [[8, 12]], "Thursday": []}
+{"ID": "ID_61", "Courses": ["Statics"], "Sunday": [[11, 12], [13, 14]], "Monday": [], "Tuesday": [[11, 12], [13, 14]], "Wednesday": [], "Thursday": []}
+{"ID": "ID_62", "Courses": ["Calculus 1 for Science_IT"], "Sunday": [[16, 22]], "Monday": [[16, 22]], "Tuesday": [[16, 22]], "Wednesday": [[17, 22]], "Thursday": []}
+{"ID": "ID_63", "Courses": ["Calculus 1 for Science_IT"], "Sunday": [], "Monday": [], "Tuesday": [], "Wednesday": [[17, 22]], "Thursday": []}
+{"ID": "ID_64", "Courses": ["Calculus 1 for Science_IT", "Calculus 1 for Engineering", "biology"], "Sunday": [], "Monday": [[9, 12], [14, 16]], "Tuesday": [], "Wednesday": [[8, 12]], "Thursday": []}
+{"ID": "ID_65", "Courses": ["Micro"], "Sunday": [[9, 12]], "Monday": [[9, 12]], "Tuesday": [[9, 12]], "Wednesday": [[9, 12]], "Thursday": []}
+{"ID": "ID_66", "Courses": ["Math 3"], "Sunday": [[14, 16]], "Monday": [[14, 16]], "Tuesday": [[14, 16]], "Wednesday": [[14, 16]], "Thursday": []}
+{"ID": "ID_67", "Courses": ["Math 3"], "Sunday": [], "Monday": [[15, 17]], "Tuesday": [], "Wednesday": [[15, 17]], "Thursday": []}
+{"ID": "ID_68", "Courses": ["Calculus 1 for Engineering", "Chemistry 1"], "Sunday": [[14, 16], [18, 22]], "Monday": [[18, 22]], "Tuesday": [[14, 16], [18, 22]], "Wednesday": [[18, 22]], "Thursday": [[9, 12]]}
+{"ID": "ID_69", "Courses": ["Math 3"], "Sunday": [], "Monday": [[13, 14]], "Tuesday": [], "Wednesday": [], "Thursday": []}
+{"ID": "ID_70", "Courses": ["Physics 1 for Science_IT", "Physics 1 for Engineering", "Calculus 1 for Science_IT", "Calculus 1 for Engineering"], "Sunday": [], "Monday": [[12, 21]], "Tuesday": [], "Wednesday": [[12, 21]], "Thursday": []}
+{"ID": "ID_71", "Courses": ["Physics 2 for Engineering"], "Sunday": [], "Monday": [], "Tuesday": [[11, 12]], "Wednesday": [], "Thursday": []}
+{"ID": "ID_72", "Courses": ["Linear Algebra for Engineering"], "Sunday": [[16, 18]], "Monday": [[12, 15], [16, 18]], "Tuesday": [[16, 18]], "Wednesday": [[12, 18]], "Thursday": []}
+{"ID": "ID_73", "Courses": ["Fluid Mechanics"], "Sunday": [[8, 12]], "Monday": [], "Tuesday": [[8, 12]], "Wednesday": [], "Thursday": []}
+{"ID": "ID_74", "Courses": ["Math 2"], "Sunday": [], "Monday": [], "Tuesday": [[16, 22]], "Wednesday": [], "Thursday": []}
+{"ID": "ID_75", "Courses": ["English 1 "], "Sunday": [[12, 13]], "Monday": [[13, 14]], "Tuesday": [[12, 13]], "Wednesday": [[13, 14]], "Thursday": []}
+{"ID": "ID_76", "Courses": ["Fluid Mechanics"], "Sunday": [[17, 19]], "Monday": [[17, 19]], "Tuesday": [], "Wednesday": [], "Thursday": []}
+{"ID": "ID_77", "Courses": ["Physics 1 for Engineering", "Calculus 1 for Engineering"], "Sunday": [[9, 12], [14, 16]], "Monday": [[8, 9]], "Tuesday": [[9, 12]], "Wednesday": [], "Thursday": []}
+{"ID": "ID_78", "Courses": ["Calculus 1 for Science_IT"], "Sunday": [[12, 14]], "Monday": [[8, 10], [18, 21]], "Tuesday": [[12, 14]], "Wednesday": [[8, 10], [18, 21]], "Thursday": []}
+{"ID": "ID_79", "Courses": ["Math 2"], "Sunday": [], "Monday": [], "Tuesday": [], "Wednesday": [[10, 15]], "Thursday": []}
+{"ID": "ID_80", "Courses": ["Math 2"], "Sunday": [[17, 20]], "Monday": [[8, 12], [17, 20]], "Tuesday": [[8, 12]], "Wednesday": [], "Thursday": []}
+{"ID": "ID_81", "Courses": ["Chemistry 1"], "Sunday": [[17, 19], [20, 22]], "Monday": [[17, 22]], "Tuesday": [[17, 18], [20, 22]], "Wednesday": [], "Thursday": []}
+{"ID": "ID_82", "Courses": ["Physics 1 for Engineering", "Physics 1 for Science_IT"], "Sunday": [], "Monday": [[19, 21]], "Tuesday": [], "Wednesday": [[10, 11]], "Thursday": []}
+{"ID": "ID_83", "Courses": ["Math 1"], "Sunday": [], "Monday": [], "Tuesday": [[13, 14], [16, 22]], "Wednesday": [], "Thursday": []}
+{"ID": "ID_84", "Courses": ["Physics 2 for Science_IT", "Physics 1 for Engineering", "Calculus 1 for Engineering", "Calculus 1 for Science_IT"], "Sunday": [[18, 22]], "Monday": [[12, 14], [18, 22]], "Tuesday": [[14, 16], [18, 22]], "Wednesday": [[12, 14]], "Thursday": []}
+{"ID": "ID_85", "Courses": ["Calculus 1 for Science_IT", "Calculus 1 for Engineering"], "Sunday": [[18, 22]], "Monday": [[18, 22]], "Tuesday": [[18, 22]], "Wednesday": [], "Thursday": []}
+{"ID": "ID_86", "Courses": ["Environmental Impact", "Stability of Structure"], "Sunday": [[11, 18]], "Monday": [[11, 18]], "Tuesday": [[11, 18]], "Wednesday": [[11, 18]], "Thursday": [[11, 18]]}
+{"ID": "ID_87", "Courses": ["Digital Logic Design"], "Sunday": [], "Monday": [], "Tuesday": [], "Wednesday": [[14, 16]], "Thursday": []}
+{"ID": "ID_88", "Courses": ["Digital Logic Design", "Calculus 2 for Engineering", "Calculus 2 for Science_IT"], "Sunday": [], "Monday": [[15, 16], [18, 22]], "Tuesday": [[15, 16], [18, 22]], "Wednesday": [[14, 16]], "Thursday": []}
+{"ID": "ID_89", "Courses": ["Calculus 1 for Engineering", "Calculus 1 for Science_IT"], "Sunday": [[8, 10], [15, 16]], "Monday": [], "Tuesday": [[8, 10], [14, 16]], "Wednesday": [[14, 16]], "Thursday": []}
+{"ID": "ID_90", "Courses": ["Calculus 1 for Science_IT"], "Sunday": [], "Monday": [[12, 16]], "Tuesday": [], "Wednesday": [[12, 16]], "Thursday": []}
+{"ID": "ID_91", "Courses": ["Linear Algebra for Engineering"], "Sunday": [[14, 16], [18, 22]], "Monday": [[18, 22]], "Tuesday": [], "Wednesday": [], "Thursday": []}
+{"ID": "ID_92", "Courses": ["Micro"], "Sunday": [[10, 11], [14, 16], [18, 22]], "Monday": [[18, 22]], "Tuesday": [[10, 11], [18, 22]], "Wednesday": [], "Thursday": []}
+{"ID": "ID_93", "Courses": ["Math 2"], "Sunday": [], "Monday": [[14, 16], [18, 22]], "Tuesday": [[10, 11], [14, 16], [18, 22]], "Wednesday": [[10, 11], [14, 16]], "Thursday": []}
+{"ID": "ID_94", "Courses": ["English 3"], "Sunday": [], "Monday": [[18, 20]], "Tuesday": [], "Wednesday": [], "Thursday": []}
+{"ID": "ID_95", "Courses": ["Calculus 2 for Engineering", "Physics 1 for Engineering"], "Sunday": [], "Monday": [[15, 16], [18, 22]], "Tuesday": [[8, 10], [16, 22]], "Wednesday": [[8, 11], [15, 16], [18, 22]], "Thursday": [[9, 12]]}
+{"ID": "ID_96", "Courses": ["Calculus 1 for Engineering", "Chemistry 1"], "Sunday": [[18, 22]], "Monday": [[14, 16], [18, 22]], "Tuesday": [[18, 22]], "Wednesday": [[14, 16], [18, 22]], "Thursday": [[9, 10]]}
+{"ID": "ID_97", "Courses": ["Math 3"], "Sunday": [], "Monday": [[18, 20]], "Tuesday": [[8, 10], [15, 22]], "Wednesday": [[8, 10]], "Thursday": []}
+{"ID": "ID_98", "Courses": ["Calculus 1 for Engineering"], "Sunday": [], "Monday": [], "Tuesday": [], "Wednesday": [[12, 14], [16, 22]], "Thursday": [[11, 22]]}
+{"ID": "ID_99", "Courses": ["Math 1", "Macro"], "Sunday": [[14, 15]], "Monday": [[14, 15]], "Tuesday": [[14, 15]], "Wednesday": [[14, 16]], "Thursday": [[14, 16]]}
